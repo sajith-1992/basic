@@ -1,9 +1,10 @@
 LaunchTargetManager/configs/SAJI=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/avg.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
 LaunchTargetManager/configs/sample\ check.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:SAMPLE.exe,org.eclipse.launchbar.core.descriptorType.default\:samople.exe,org.eclipse.launchbar.core.descriptorType.default\:sample input.exe,org.eclipse.launchbar.core.descriptorType.default\:sample 1.exe,org.eclipse.launchbar.core.descriptorType.default\:sample check.exe
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:SAMPLE.exe,org.eclipse.launchbar.core.descriptorType.default\:samople.exe,org.eclipse.launchbar.core.descriptorType.default\:sample input.exe,org.eclipse.launchbar.core.descriptorType.default\:sample 1.exe,org.eclipse.launchbar.core.descriptorType.default\:sample check.exe,org.eclipse.launchbar.core.descriptorType.default\:avg.exe
 eclipse.preferences.version=1
 org.eclipse.cdt.debug.core.coreBuildDescriptorType\:SAJI/activeLaunchMode=run
 org.eclipse.cdt.debug.core.coreBuildDescriptorType\:SAJI/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

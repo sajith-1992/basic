@@ -1,5 +1,23 @@
-20:07:19 **** Incremental Build of configuration Debug for project sample check ****
+20:44:57 **** Incremental Build of configuration Debug for project avg ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample check.o" "..\\src\\sample check.c" 
-gcc -o "sample check.exe" "src\\sample check.o" 
-Info: Nothing to build for sample check
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\avg.o" "..\\src\\avg.c" 
+..\src\avg.c: In function 'main':
+..\src\avg.c:21:2: warning: format '%f' expects type 'double', but argument 2 has type 'int'
+gcc -o avg.exe "src\\avg.o" 
+Info: Nothing to build for avg
+Info: Nothing to build for avg
+Info: Nothing to build for avg
+20:48:46 **** Incremental Build of configuration Debug for project avg ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\avg.o" "..\\src\\avg.c" 
+gcc -o avg.exe "src\\avg.o" 
+20:49:28 **** Incremental Build of configuration Debug for project avg ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\avg.o" "..\\src\\avg.c" 
+..\src\avg.c: In function 'main':
+..\src\avg.c:21:2: warning: format '%d' expects type 'int', but argument 2 has type 'double'
+gcc -o avg.exe "src\\avg.o" 
+20:49:45 **** Incremental Build of configuration Debug for project avg ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\avg.o" "..\\src\\avg.c" 
+gcc -o avg.exe "src\\avg.o" 
