@@ -1,0 +1,7 @@
+19:03:34 **** Incremental Build of configuration Debug for project samople ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\samople.o" "..\\src\\samople.c" 
+gcc -o samople.exe "src\\samople.o" 
+
+19:03:35 Build Finished. 0 errors, 0 warnings. (took 709ms)
+
